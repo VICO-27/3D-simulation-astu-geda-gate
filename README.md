@@ -6,7 +6,8 @@
 
 # Overview
 ```
-This project is a full 3D simulation of the ASTU GEDA Gate, developed in C++ using OpenGL (FreeGLUT). It started as a 2D class assignment, but I wanted to push myself further — improving my 3D graphics, geometry, and interactive programming skills.
+This project is a full 3D simulation of the ASTU GEDA Gate, developed in C++ using OpenGL (FreeGLUT).
+It started as a 2D class assignment, but I wanted to push myself further, improving my 3D graphics, geometry, and interactive programming skills.
 
 Now, it’s a fully interactive 3D environment with procedurally generated landscapes, dynamic elements, and architectural accuracy.
 ```
